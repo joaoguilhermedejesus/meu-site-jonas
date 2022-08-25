@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>
+        Jonas     
+        </title>
+   
+        <style>
+            h1 {
+                text-align: center;
+                color: black;
+                background: white;
+            }
+            p {text-align: center;
+                color: red;
+           
+            }
+            img {
+                display: block;
+                margin: 0 auto;
+            }
+
+
+        </style>
+    </head>
+    <body>
+        <h1>SITE DO JONAS</h1>
+        <img src="https://w.cdnautoline.com.br/images/CHEVROLET-VECTRA-17321000-1.jpg">
+
+        <p>Este carro já pegou mais de 200 k/h e venceu o FIAT UNO</p>
+        <p>Este carro é um vectra </p>
+        <p>Terceiro e último parágrafo de exemplo de texto na página do site em HTML e CSS <u>Parágrafo</u> do meu site</p>
+   
+
+    </body>
+</html>
